@@ -4,3 +4,4 @@
 <h4>http://sqlbolt.com/ take a screenshot of your executed queries then upload it to GitHub and submit your URL
 T</h4>
 Inhere i have completed all lessons in the Sqlbolt platform
+Here i have experimented the CRUD operations
